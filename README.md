@@ -1,13 +1,13 @@
 ## 🧑 About Me
 
-I'm Dave (He/Him), a Security Platform Engineer based in Scotland's Central Belt looking to return to the Cloud/DevOps world. I have a breadth of experience with Linux & Windows administration, infrastructure deployment and support, virtualisation, and automation.
+I'm Dave (He/Him), a Security Platform Engineer based in Scotland's Central Belt looking to return to the Cloud/DevOps world. I have a breadth of experience with Linux & Windows administration, infrastructure deployment & support, virtualisation, and automation.
 
 You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/dave-m-86b386138/)
 - [Credly](https://www.credly.com/users/dave-mulholland.9fb54736)
 
 
-Most of repositories here are set to private, but will be changed to public if their content is suitable.
+Most repositories here are set to private, but will be changed to public if their content is suitable.
 
 ---
 
