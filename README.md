@@ -15,26 +15,27 @@ Most of repositories here are set to private, but will be changed to public if t
 My skillset is very broad but somewhat shallow (wide-T profile). However this allows me to rapidly adapt to new workflows and tools as needed.
 
 Below is a self-assessed list of my skills where:
-- 🟢 High means I am comfortable and confident using this technology
-- 🟠 Med means I am reasonably confident using this technology but will often refer to documentation
-- 🔴 Low means I am not confident with this technology and rely heavily on documentation
-- ⚫ None means I am not comfortable using this technology or have very limited knowledge of it
+- 🟢 High means I am comfortable and confident using this
+- 🟠 Med means I am reasonably confident but will often refer to documentation
+- 🔴 Low means I am not confident and rely heavily on documentation
+- ⚫ None means I am not comfortable or have very limited knowledge
 
 
 | Skill          | Competency | Certifications |
 | :------------- | :--------: | :------------: |
 | Linux          |   🟢 High   |                |
+| Windows        |   🟢 High   |                |
 | Networking     |   🟢 High   |      CCNA      |
 | Virtualisation |   🟢 High   |                |
-| Windows        |   🟢 High   |                |
-| Automation     |   🟠 Med    |                |
+| Agile Working  |   🟢 High   |                |
 | Cloud          |   🟠 Med    |                |
-| Git            |   🟠 Med    |                |
+| Automation     |   🟠 Med    |                |
 | IaC            |   🟠 Med    |                |
+| Git            |   🟠 Med    |                |
 | SIEM Tools     |   🟠 Med    |                |
-| Bash           |   🔴 Low    |                |
 | CI/CD          |   🔴 Low    |                |
 | Containers     |   🔴 Low    |                |
+| Bash           |   🔴 Low    |                |
 | Python         |   🔴 Low    |                |
 
 ## 🌱 Learning Priorities
