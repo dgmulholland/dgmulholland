@@ -21,22 +21,22 @@ Below is a self-assessed list of my skills where:
 - ⚫ None means I am not comfortable or have very limited knowledge
 
 
-| Skill          | Competency | Certifications |
-| :------------- | :--------: | :------------: |
-| Linux          |   🟢 High   |                |
-| Windows        |   🟢 High   |                |
-| Networking     |   🟢 High   |      CCNA      |
-| Virtualisation |   🟢 High   |                |
-| Agile Working  |   🟢 High   |                |
-| Cloud          |   🟠 Med    |                |
-| Automation     |   🟠 Med    |                |
-| IaC            |   🟠 Med    |                |
-| Git            |   🟠 Med    |                |
-| SIEM Tools     |   🟠 Med    |                |
-| CI/CD          |   🔴 Low    |                |
-| Containers     |   🔴 Low    |                |
-| Bash           |   🔴 Low    |                |
-| Python         |   🔴 Low    |                |
+| Skill          | Competency | Certifications (Date Awarded) |
+| :------------- | :--------: | :---------------------------: |
+| Linux          |   🟢 High   |                               |
+| Windows        |   🟢 High   |                               |
+| Networking     |   🟢 High   |        CCNA (Jun '22)         |
+| Virtualisation |   🟢 High   |                               |
+| Agile Working  |   🟢 High   |                               |
+| Cloud          |   🟠 Med    |                               |
+| Automation     |   🟠 Med    |                               |
+| IaC            |   🟠 Med    |                               |
+| Git            |   🟠 Med    |                               |
+| SIEM Tools     |   🟠 Med    |                               |
+| CI/CD          |   🔴 Low    |                               |
+| Containers     |   🔴 Low    |                               |
+| Bash           |   🔴 Low    |                               |
+| Python         |   🔴 Low    |                               |
 
 ## 🌱 Learning Priorities
 My current learning priorities are:
